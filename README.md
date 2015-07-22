@@ -1,2 +1,2 @@
-# ScrollSpy
-Efecto ScrollSpy en la pagina web.
+# ScrollSpy bootstrap
+Efecto ScrollSpy en la pagina web
